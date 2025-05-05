@@ -59,7 +59,6 @@ assign A0= ( D4 | D5 | D6 | D7);
 assign A1= ( D2 | D3 | D6 | D7);
 assign A2= ( D1 | D3 | D5 | D7);
 endmodule
-RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
 
 ![image](https://github.com/user-attachments/assets/7b4dc927-b4f2-46d2-b059-c104c0ab2084)
 
